@@ -35,15 +35,18 @@
 
 
 ---
-
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoolalw&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoolalw&layout=compact&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=yoolalw&show_icons=true&theme=tokyonight"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoolalw&layout=compact&theme=tokyonight"
+  />
+</p>
 
 
 ---
