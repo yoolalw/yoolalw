@@ -1,24 +1,23 @@
-<h1 align="center">👋 Olá, eu sou a Lara! </h1>
+<h1 align="center">Olá, meu nome é Lara.</h1>
 
 <p align="center">
   🎓 Estudante de Desenvolvimento de Sistemas <br>
-  💻 Apaixonada por tecnologia e programação
+  💻 Apaixonada por tecnologia
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudando-blue" />
   <img src="https://img.shields.io/badge/Foco-Backend-green" />
-  <img src="https://img.shields.io/badge/.NET-C%23-purple" />
+  <img src="https://img.shields.io/badge/Java-C%23-purple" />
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 📚 Estudante do curso técnico em **Desenvolvimento de Sistemas**
-- 🎯 Atualmente estudando **C#, .NET e Web API**
+- 📚 Estudante do SENAI, cursando técnico em **Desenvolvimento de Sistemas**
+- 🎯 Atualmente estudando **Java, C# e Web API**
 - 🧠 Interessado em **Backend, APIs e Banco de Dados**
-- 🛠 Sempre buscando evoluir e aprender mais
 
 ---
 
@@ -48,5 +47,5 @@
 ---
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil!
+  ⭐ Obrigada por visitar meu perfil!
 </p>
