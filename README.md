@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudando-blue" />
   <img src="https://img.shields.io/badge/Foco-Backend-green" />
-  <img src="https://img.shields.io/badge/Java-C%23-purple" />
 </p>
 
 ---
