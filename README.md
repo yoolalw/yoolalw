@@ -48,22 +48,6 @@
 
 ---
 
-## 🌎 Onde me encontrar
-
-<p align="center">
-  <a href="https://github.com/yoolalw" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">
   🌸 <i>“Transformando linhas de código em ideias que ganham vida.”</i> 🌸  
   <br><br>
