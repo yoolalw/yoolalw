@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Aprendendo%20sempre-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Foco-Backend%20Dev-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linguagens-Java%20%7C%20C%23%20%7C%20SQL-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linguagens-Java%20%7C%2C%23%20%7C%20POSTGRE-orange?style=for-the-badge" />
 </p>
 
 ---
