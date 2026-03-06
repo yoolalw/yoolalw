@@ -10,11 +10,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoolalw&theme=ocean_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoolalw&theme=blueberry"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoolalw&theme=ocean_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoolalw&theme=blueberry"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoolalw&theme=ocean_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoolalw&theme=blueberry"/>
 
 </div>
 
