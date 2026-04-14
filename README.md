@@ -28,7 +28,7 @@
 ![Spring](https://img.shields.io/badge/Spring-9fd3ff?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-9fd3ff?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-9fd3ff?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-9fd3ff?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-9fd3ff?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
