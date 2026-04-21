@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9fd3ff,100:cfeaff&height=200&section=header&text=yoolalw&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9fd3ff,100:cfeaff&height=200&section=header"/>
 
 # Olá, meu nome é Lara.
 
