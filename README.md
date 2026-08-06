@@ -34,7 +34,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-9fd3ff?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-9fd3ff?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-9fd3ff?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-9fd3ff?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9fd3ff?style=for-the-badge&logo=tailwind&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9fd3ff?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-9fd3ff?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-9fd3ff?style=for-the-badge&logo=github&logoColor=white)
