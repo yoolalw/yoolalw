@@ -1,8 +1,22 @@
-# Olá, meu nome é Lara.
 
-</div>
+# Olá, eu sou a Lara! 👋
+
+<p align="center">
+  💻 <strong>Técnica em Desenvolvimento de Sistemas</strong>
+</p>
+
+<p align="center">
+  🏆 <strong>Competidora de Teste de Software</strong> na WorldSkills Brasil
+</p>
+
+<p align="center">
+  Sou apaixonada por desenvolvimento Back-end e Qualidade de Software.
+  Gosto de transformar problemas em soluções através da programação e da automação de testes.
+</p>
 
 ---
+
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -14,18 +28,40 @@
 
 </div>
 
-
 ---
 
+## 🚀 Tecnologias
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-9fd3ff?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-9fd3ff?style=for-the-badge&logo=spring&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-9fd3ff?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-9fd3ff?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-9fd3ff?style=for-the-badge&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-9fd3ff?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9fd3ff?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-9fd3ff?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9fd3ff?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9fd3ff?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9fd3ff?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-9fd3ff?style=for-the-badge&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-9fd3ff?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-9fd3ff?style=for-the-badge&logo=pytest&logoColor=white)
 
 </div>
 
 ---
+
+## 📚 Atualmente estudando
+
+- ☕ Java e Spring Boot
+- 🌐 APIs REST
+- 🗄️ PostgreSQL
+- 🧪 Automação de Testes com Selenium, Appium e Pytest
+- 📱 Testes Mobile
+- 🏗️ Boas práticas de desenvolvimento
+
+---
+
+<div align="center">
+
+### Obrigada pela visita! 💙
+</div>
+```
